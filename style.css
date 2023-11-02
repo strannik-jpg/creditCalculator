@@ -1,0 +1,88 @@
+header {
+    background-color: #BB2649;
+    text-align: center;
+    color: #fff;
+    font-family: 'Montserrat';
+    width: 100%;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+}
+
+h1 {
+    margin: 0;
+}
+
+form {
+    font-family: 'Montserrat';
+    font-size: 100%;    
+    color: #BB2649;
+    clear:both; 
+    text-align:right;
+  
+    float:left
+}
+
+label {
+    margin-top: 20px;
+    text-align: left;
+    padding-right:50px;
+}
+
+input{
+    margin-top: 20px;
+    border: 1px #BB2649 solid;
+    border-radius: 3px;
+    padding-right:10px;
+}
+
+fieldset{
+    margin-top: 20px;
+    border: 2px #BB2649 solid;
+    
+}
+
+legend {
+    font-size: 15px;
+}
+
+button {
+    margin-top: 20px;
+    height:30px;
+    width: 100%;
+    background-color: #BB2649;
+    border: 1px #BB2649 solid;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #fff;
+    border: 1px #BB2649 solid;
+    border-radius: 5px;
+    color: #BB2649;
+    cursor: pointer;
+}
+
+.text {
+    font-family: 'Montserrat';
+    font-size: 15px;
+    color: #BB2649;
+    margin-top: 40px;
+    margin-left: 620px;
+}
+
+.class {
+    font-family: 'Montserrat';
+    font-size: 30px;
+    font-weight: 500;
+    color: #BB2649;
+    margin-top: 50px;
+    text-align: center;
+}
